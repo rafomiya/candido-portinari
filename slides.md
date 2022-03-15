@@ -89,24 +89,24 @@ layout: section
 
 ---
 layout: image
-image: images/Group\ 131.png
+image: images/1.png
 ---
-<style>div{background-size: contain !important;}</style>
+
 ---
 layout: image
 image: images/2.png
 ---
-<style>div{background-size: contain;}</style>
+
 ---
 layout: image
 image: images/3.png
 ---
-<style>div{background-size: contain;}</style>
+
 ---
 layout: image
 image: images/4.png
 ---
-<style>div{background-size: contain;}</style>
+
 ---
 layout: image
 image: images/5.png
@@ -125,10 +125,10 @@ layout: default-6
 - Antofágica. 25 de julho de 2019. Disponível em https://www.youtube.com/watch?v=0UO-ZcqC2Ig. Acesso em 11 de março de 2022.
 - CANDIDO Portinari. In: ENCICLOPÉDIA Itaú Cultural de Arte e Cultura Brasileira. São Paulo: Itaú Cultural, 2022. Disponível em: https://enciclopedia.itaucultural.org.br/pessoa10686/candido-portinari. Acesso em 11 de março de 2022.
 - Retirantes, de Cândido Portinari. Disponível em https://www.youtube.com/watch?v=tujgSJGUKw8. Acesso em 11 de março de 2022.
-- AIDAR, Laura. Candido Portinari. Toda Matéria. Disponível em https://www.todamateria.com.br/candido-portinari/. Acesso em 12 de março de 2022.
 ---
 layout: default-6
 ---
+- AIDAR, Laura. Candido Portinari. Toda Matéria. Disponível em https://www.todamateria.com.br/candido-portinari/. Acesso em 12 de março de 2022.
 - Disponível em http://www.portinari.org.br/#/acervo/obra/2807/detalhes. Acesso em 14 de março de 2022.
 - Disponível em http://www.portinari.org.br/#/acervo/obra/2744/detalhes. Acesso em 14 de março de 2022.
 - Disponível em http://www.portinari.org.br/#/acervo/obra/2735/detalhes. Acesso em 14 de março de 2022.
